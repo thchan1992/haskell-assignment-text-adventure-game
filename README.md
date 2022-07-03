@@ -1,4 +1,3 @@
-# pokemon-text-adventure-game---haskell
+# pokemon-text-adventure-game-haskell
 
-This is the second project for the school work I made by using Haskell and functional programming.
-This is a text adventure game with the background of popluar japanese carton - pokemon
+This is a school Haskell assignment where I built a text adventure in order to explore the functional programming.
